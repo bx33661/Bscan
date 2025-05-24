@@ -1,0 +1,30 @@
+{
+  "scan_info": {
+    "domain": "cloudflare.com",
+    "scan_time": "2025-05-23 23:13:00",
+    "total_found": 1,
+    "scan_duration": 1.209305763244629
+  },
+  "results": [
+    {
+      "subdomain": "www.cloudflare.com",
+      "dns_results": {
+        "A": [
+          "104.16.123.96",
+          "104.16.124.96"
+        ]
+      },
+      "http_results": {
+        "https": {
+          "status_code": 200,
+          "title": "",
+          "redirect_url": "https://www.cloudflare.com/",
+          "content_length": "",
+          "server": "cloudflare",
+          "content_type": "text/html"
+        }
+      },
+      "timestamp": "2025-05-23 23:13:00"
+    }
+  ]
+}

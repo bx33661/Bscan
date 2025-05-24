@@ -1,0 +1,36 @@
+{
+  "scan_info": {
+    "domain": "docker.com",
+    "scan_time": "2025-05-23 23:12:58",
+    "total_found": 2,
+    "scan_duration": 84.7876181602478
+  },
+  "results": [
+    {
+      "subdomain": "www.docker.com",
+      "dns_results": {
+        "A": [
+          "23.185.0.4"
+        ]
+      },
+      "http_results": {
+        "https": null,
+        "http": null
+      },
+      "timestamp": "2025-05-23 23:11:35"
+    },
+    {
+      "subdomain": "mail.docker.com",
+      "dns_results": {
+        "A": [
+          "192.28.148.141"
+        ]
+      },
+      "http_results": {
+        "https": null,
+        "http": null
+      },
+      "timestamp": "2025-05-23 23:12:58"
+    }
+  ]
+}

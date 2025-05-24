@@ -1,0 +1,29 @@
+{
+  "scan_info": {
+    "domain": "mit.edu",
+    "scan_time": "2025-05-23 23:13:04",
+    "total_found": 1,
+    "scan_duration": 1.6116466522216797
+  },
+  "results": [
+    {
+      "subdomain": "www.mit.edu",
+      "dns_results": {
+        "A": [
+          "104.90.66.27"
+        ]
+      },
+      "http_results": {
+        "https": {
+          "status_code": 403,
+          "title": "Access Denied",
+          "redirect_url": "https://www.mit.edu/",
+          "content_length": "365",
+          "server": "AkamaiGHost",
+          "content_type": "text/html"
+        }
+      },
+      "timestamp": "2025-05-23 23:13:04"
+    }
+  ]
+}

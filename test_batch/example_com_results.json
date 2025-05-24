@@ -1,0 +1,30 @@
+{
+  "scan_info": {
+    "domain": "example.com",
+    "scan_time": "2025-05-23 23:13:02",
+    "total_found": 1,
+    "scan_duration": 2.6725146770477295
+  },
+  "results": [
+    {
+      "subdomain": "www.example.com",
+      "dns_results": {
+        "A": [
+          "23.56.227.69",
+          "23.56.227.78"
+        ]
+      },
+      "http_results": {
+        "https": {
+          "status_code": 200,
+          "title": "",
+          "redirect_url": "https://www.example.com/",
+          "content_length": "648",
+          "server": "",
+          "content_type": "text/html"
+        }
+      },
+      "timestamp": "2025-05-23 23:13:02"
+    }
+  ]
+}

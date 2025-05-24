@@ -1,0 +1,26 @@
+# 域名列表文件示例
+# 每行一个域名，支持注释行（以#开头）
+# 支持HTTP/HTTPS格式，工具会自动清理
+
+# 知名网站
+github.com
+google.com
+cloudflare.com
+microsoft.com
+
+# 技术网站
+stackoverflow.com
+docker.com
+nginx.com
+
+# 教育机构
+mit.edu
+stanford.edu
+
+# 示例域名
+example.com
+httpbin.org
+
+# 你可以添加更多域名...
+# your-domain.com
+# another-domain.org 

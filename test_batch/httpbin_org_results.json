@@ -1,0 +1,31 @@
+{
+  "scan_info": {
+    "domain": "httpbin.org",
+    "scan_time": "2025-05-23 23:13:07",
+    "total_found": 1,
+    "scan_duration": 2.820138931274414
+  },
+  "results": [
+    {
+      "subdomain": "www.httpbin.org",
+      "dns_results": {
+        "A": [
+          "52.7.80.244",
+          "54.166.245.7",
+          "54.159.209.11"
+        ]
+      },
+      "http_results": {
+        "https": {
+          "status_code": 200,
+          "title": "httpbin.org",
+          "redirect_url": "https://www.httpbin.org/",
+          "content_length": "9593",
+          "server": "gunicorn/19.9.0",
+          "content_type": "text/html"
+        }
+      },
+      "timestamp": "2025-05-23 23:13:07"
+    }
+  ]
+}

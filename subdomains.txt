@@ -1,0 +1,390 @@
+# 高质量子域名字典 - 专业级探活工具
+# 分类整理，优先级从高到低
+
+# ==== 核心基础服务 ====
+www
+mail
+ftp
+admin
+api
+app
+blog
+shop
+store
+login
+secure
+
+# ==== 开发测试环境 ====
+dev
+test
+staging
+beta
+alpha
+demo
+preview
+sandbox
+lab
+
+# ==== 内容分发 ====
+cdn
+static
+assets
+img
+images
+video
+media
+files
+download
+upload
+data
+
+# ==== 管理后台 ====
+admin
+manage
+manager
+control
+panel
+dashboard
+backend
+console
+cpanel
+
+# ==== 邮件服务 ====
+mail
+email
+smtp
+pop
+pop3
+imap
+webmail
+exchange
+mx
+mx1
+mx2
+
+# ==== 网络服务 ====
+dns
+ns
+ns1
+ns2
+ns3
+ns4
+vpn
+proxy
+gateway
+firewall
+
+# ==== 数据库相关 ====
+db
+database
+mysql
+postgres
+redis
+mongo
+elastic
+search
+
+# ==== 监控运维 ====
+monitor
+status
+health
+stats
+metrics
+logs
+nagios
+zabbix
+grafana
+
+# ==== 开发工具 ====
+git
+svn
+jenkins
+ci
+cd
+build
+deploy
+docker
+k8s
+gitlab
+github
+
+# ==== 文档帮助 ====
+docs
+doc
+help
+support
+wiki
+kb
+forum
+faq
+guide
+
+# ==== 移动设备 ====
+m
+mobile
+wap
+touch
+iphone
+android
+tablet
+
+# ==== 地理位置 ====
+www2
+www3
+us
+eu
+asia
+cn
+jp
+uk
+de
+fr
+
+# ==== 版本控制 ====
+v1
+v2
+v3
+v4
+old
+new
+legacy
+next
+
+# ==== 子域名变体 ====
+secure
+portal
+client
+customer
+member
+user
+guest
+
+# ==== 营销相关 ====
+promo
+sale
+offer
+deal
+event
+news
+press
+media
+
+# ==== 企业服务 ====
+crm
+erp
+hr
+finance
+accounting
+billing
+invoice
+
+# ==== 云服务 ====
+cloud
+aws
+azure
+gcp
+s3
+storage
+
+# ==== 安全相关 ====
+ssl
+cert
+certificate
+auth
+oauth
+sso
+ldap
+
+# ==== 网站功能 ====
+search
+cart
+checkout
+payment
+order
+tracking
+shipping
+
+# ==== 社交媒体 ====
+social
+twitter
+facebook
+linkedin
+instagram
+youtube
+
+# ==== 开发分支 ====
+feature
+hotfix
+release
+master
+main
+develop
+
+# ==== 服务器类型 ====
+web
+app-server
+load-balancer
+cache
+backup
+
+# ==== 监控告警 ====
+alert
+notification
+sms
+push
+
+# ==== 数据分析 ====
+analytics
+tracking
+pixel
+tag
+gtm
+
+# ==== 内容管理 ====
+cms
+wordpress
+drupal
+joomla
+admin-wp
+
+# ==== API网关 ====
+api-gateway
+microservice
+service
+endpoint
+
+# ==== 域名停放 ====
+parked
+coming-soon
+under-construction
+maintenance
+
+# ==== 测试专用 ====
+qa
+uat
+sit
+pre-prod
+prod
+
+# ==== 第三方集成 ====
+webhook
+callback
+integration
+partner
+
+# ==== 备份恢复 ====
+backup
+restore
+archive
+temp
+tmp
+
+# ==== 负载均衡 ====
+lb
+lb1
+lb2
+balancer
+
+# ==== 文件服务 ====
+file
+fileserver
+share
+nfs
+smb
+
+# ==== 游戏相关 ====
+game
+games
+play
+arcade
+
+# ==== 学习教育 ====
+learn
+training
+course
+education
+school
+
+# ==== 招聘求职 ====
+jobs
+career
+careers
+recruit
+hr-portal
+
+# ==== 客服支持 ====
+ticket
+helpdesk
+support-center
+chat
+
+# ==== 系统工具 ====
+tool
+tools
+utility
+utils
+service
+
+# ==== 开放接口 ====
+public-api
+open-api
+developer
+dev-portal
+
+# ==== 内部系统 ====
+internal
+intranet
+private
+staff
+
+# ==== 合作伙伴 ====
+partner
+affiliate
+reseller
+vendor
+
+# ==== 多语言 ====
+en
+zh
+ja
+ko
+es
+pt
+ru
+ar
+
+# ==== 特殊用途 ====
+redirect
+forward
+short
+link
+url
+
+# ==== 物联网 ====
+iot
+device
+sensor
+gateway-iot
+
+# ==== 人工智能 ====
+ai
+ml
+bot
+chatbot
+voice
+
+# ==== 区块链 ====
+blockchain
+crypto
+wallet
+nft
+
+# ==== 其他常见 ====
+contact
+about
+privacy
+terms
+legal
+policy
+sitemap
+robots 
